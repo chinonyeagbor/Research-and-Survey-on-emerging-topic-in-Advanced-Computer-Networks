@@ -18,3 +18,7 @@ LO4: Applied a suite of transferable skills useful for both industry and researc
 
 ### Scope:
 This survey is intended for those interested in the future of advanced computer networks, providing an overview of load balancing techniques in SDN and discussing their potential to create resilient, high-performance networks. It also underscores the importance of addressing cybersecurity in SDN environments, given the potential risks associated with centralized control. The research serves as a resource for understanding both the technical and security considerations in deploying SDN-based load balancing solutions effectively.
+
+### Collaborators
+@aikenau
+@ehidiamen Omoike
